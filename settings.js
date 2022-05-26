@@ -18,21 +18,17 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "GanzZBOtz-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄Miftah GanzZོ ×፝֟͜×" //nama kalian
-global.myweb ="https://wa.me/6285171226069" //bebas asal jan hapus
+global.botname = "EcaBOtz-Mdོ" //namabot kalian
+global.ownername= "Eca Botz" //nama kalian
+global.myweb ="https://wa.me/66287743824396" //bebas asal jan hapus
 global.youtube = "https://youtube.com" //bebas asal jan hapus
-global.github = "https://wa.me/6285171226069" //bebas
-global.email = "MiftahGanzZ01@gmail.com" //bebas
-global.region = "Indonesia" //bebas
-global.ownernomer = "6285171226069" // nomor wa kalian
-global.ownernomerr = "+6285171226069" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.github = "https://wa.me/6287743824396" //bebas
+global.email = "EcaBotz@gmail.com" //jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285171226069","6283139111784","62831391117842"] //ganti agar fitur owner bisa di gunakan
-global.packname = '©GanzZBotz-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh GanzZBotz' //sticker wm ganti nama kalian
+global.owner = ["6287743824396","6285171226069"] //ganti agar fitur owner bisa di gunakan
+global.packname = '©EcaBotz-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh ECA BOTZ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
