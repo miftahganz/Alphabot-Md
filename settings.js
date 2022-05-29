@@ -18,17 +18,17 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "EcaBOtz-Mdོ" //namabot kalian
-global.ownername= "Eca Botz" //nama kalian
-global.myweb ="https://wa.me/66287743824396" //bebas asal jan hapus
+global.botname = "BaByBOtz-Mdོ" //namabot kalian
+global.ownername= "ALDI" //nama kalian
+global.myweb ="https://wa.me/6285778815524" //bebas asal jan hapus
 global.youtube = "https://youtube.com" //bebas asal jan hapus
-global.github = "https://wa.me/6287743824396" //bebas
+global.github = "https://wa.me/6285778815524" //bebas
 global.email = "EcaBotz@gmail.com" //jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6287743824396","6285171226069"] //ganti agar fitur owner bisa di gunakan
-global.packname = '©EcaBotz-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ECA BOTZ' //sticker wm ganti nama kalian
+global.owner = ["6285778815524","6285171226069"] //ganti agar fitur owner bisa di gunakan
+global.packname = '©BabyBotz-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh BABY BOTZ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
