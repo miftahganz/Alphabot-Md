@@ -1,8 +1,8 @@
 {
-  "name": "Alphabot-Md",
+  "name": "BOT-BIASA",
   "version": "10.0.0",
-  "description": "Alpha Bot Multi Device, Only update in YouTube ZEEONE OFC",
-  "main": "zeeone.js",
+  "description": "BOT-BIASA",
+  "main": "zeeone.js"
   "directories": {
     "lib": "lib"
   },
